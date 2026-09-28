@@ -1,0 +1,4 @@
+C:\Users\boost\source\repos\Linear search\LineDrawerApp\obj\Debug\net8.0\LineDrawerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boost\source\repos\Linear search\LineDrawerApp\obj\Debug\net8.0\LineDrawerApp.AssemblyInfoInputs.cache
+C:\Users\boost\source\repos\Linear search\LineDrawerApp\obj\Debug\net8.0\LineDrawerApp.AssemblyInfo.cs
+C:\Users\boost\source\repos\Linear search\LineDrawerApp\obj\Debug\net8.0\LineDrawerApp.csproj.CoreCompileInputs.cache
